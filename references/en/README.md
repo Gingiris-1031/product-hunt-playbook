@@ -1,24 +1,4 @@
----
-name: "Product Hunt Launch Playbook — Win #1 Daily"
-version: 1.6.0
-description: |
-  It's 11pm before your launch. Your PH page is ready but you have no idea what actually moves the ranking algorithm. Upvotes? Comments? Time-of-day? This is the hour-by-hour operations manual from someone who's coached 30+ #1 finishes.
-
-  What's inside:
-  • Ranking algorithm deep-dive (it's not just upvotes — weighted factors decoded)
-  • Launch day minute-by-minute checklist (PST timing, first 3 hours are critical)
-  • Voter mobilization strategies (ethical, anti-spam-safe approaches)
-  • Asset preparation templates (gallery, tagline ≤60 chars, maker comments)
-  • Post-launch 72h momentum plan (convert PH traffic → retained users)
-
-  Built from: 30+ PH #1 daily wins, 10+ weekly top 3, 2 monthly top 5. 3,000-5,000+ upvotes per launch.
-
-  Triggers: "Product Hunt" | "PH launch" | "Product Hunt #1" | "PH ranking" | "Product Hunt strategy" | "PH upvotes" | "launch day" | "PH打榜" | "Product Hunt攻略" | "PH ranking algorithm"
----
-
 # Product Hunt Launch Playbook
-
-> 🌍 **Language / 语言**: [中文](#中文版) | [English](references/en/README.md) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)
 
 > **30x Daily #1 | 3x Weekly #1 | 1x Monthly #1**
 
