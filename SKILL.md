@@ -16,33 +16,18 @@ description: |
   Triggers: "Product Hunt" | "PH launch" | "Product Hunt #1" | "PH ranking" | "Product Hunt strategy" | "PH upvotes" | "launch day" | "PH打榜" | "Product Hunt攻略" | "PH ranking algorithm"
 ---
 
----
-
 ## 📦 Install
-
-**ClawHub (recommended — works with any Claude Code / OpenClaw / Cursor agent):**
 
 ```bash
 clawhub install product-hunt-playbook
 ```
 
-**skills.sh CLI alternative:**
-
-```bash
-npx skills add Gingiris-1031/product-hunt-playbook
-```
-
-## 🌐 Also available on
-
-- 🤗 [HuggingFace dataset](https://huggingface.co/datasets/Gingiris/product-hunt-playbook)  — full playbook with 30-sec preview
-- 📚 [All 40+ Gingiris skills hub](https://gingiris.tools/skills/) — filter by category, copy install commands
-- 🧭 [Author blog & growth playbooks](https://gingiris.tools)
-- ⭐ [Gingiris ClawHub profile](https://clawhub.ai/user/gingiris)
-
-> Battle-tested by Iris (生姜iris) — ex-AFFiNE COO (60K GitHub stars), Forbes Asia 30 Under 30, 30+ Product Hunt #1 wins.
+**What you get after installing:**
+- 24-hour battle plan with hour-by-hour tactics for launch day
+- Ranking algorithm deep-dive — weighted factors decoded (it's not just upvotes)
+- Post-launch 72h momentum plan to convert PH traffic into retained users
 
 ---
-
 
 # Product Hunt Launch Playbook
 
@@ -97,3 +82,15 @@ Or read: [Gingiris Launch Playbook](https://github.com/Gingiris/gingiris-launch)
 ---
 
 *Author: Iris (生姜iris) | [gingiris.com](https://gingiris.com)*
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium (templates + case studies): [Get on Gumroad](https://gingiris.gumroad.com/l/zxamur)
+- 📦 Full Bundle ($249): [All 5 Playbooks](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
