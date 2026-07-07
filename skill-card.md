@@ -4,7 +4,7 @@ Provides Product Hunt launch-day guidance covering launch timing, ranking factor
 This skill is ready for commercial/non-commercial use. <br>
 
 ## Publisher: <br>
-[gingiris](https://clawhub.ai/user/gingiris) <br>
+[gingiris](https://clawhub.ai/gingiris-1031) <br>
 
 ### License/Terms of Use: <br>
 MIT-0 <br>
